@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://custom-badge.vercel.app/api/github/followers/NIVIBUGS?style=for-the-badge" alt="Followers Badge"/>
+  <img src="https://custom-badge.vercel.app/api/github/followers/NIVIBUGS?style=for-the-badge&label=Follow%20Me&color=blueviolet" alt="Followers Badge"/>
   
-  # Hi there! I'm NIVIBUGS 👋
+  # Hello there! I'm Nivedita Paliwal (NIVIBUGS) 👋
   
   <p align="center">
     <img src="https://media.giphy.com/media/Q8QfO5zM0Ea8Y/giphy.gif" alt="Developer GIF" width="300" />
     <br>
-    <i>"Building cool things, one commit at a time."</i>
+    <i>"A MERN Stack Developer building responsive and scalable applications."</i>
   </p>
 </div>
 
@@ -14,31 +14,39 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate and aspiring Web Developer with **19 public repositories** dedicated to learning and building robust web solutions. My core focus is on **front-end development**, crafting visually appealing and highly responsive user interfaces. I am currently focused on expanding my expertise from foundational technologies (HTML/CSS) into full-stack development and modern frameworks.
+[cite_start]I am a dedicated **Master of Computer Applications (MCA)** student [cite: 4, 5] [cite_start]and a **MERN Stack Developer** [cite: 9] focusing on full-stack application development. With **19 public repositories**, my goal is to blend responsive front-end design with efficient back-end architecture.
 
-* 🔭 I’m currently exploring advanced CSS techniques and **JavaScript frameworks**.
-* 🌱 I’m dedicated to continuous improvement and documenting my learning journey here.
-* 🏅 **GitHub Achievement:** Pull Shark.
-* 💬 Ask me about: **HTML, CSS, and web design projects!**
+* [cite_start]🔭 I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)[cite: 20, 32].
+* [cite_start]🌱 I’m dedicated to competitive programming, having solved **120+ coding problems** across platforms like GeeksforGeeks and Leetcode[cite: 52].
+* [cite_start]🤝 I contributed to open source during **GirlScript Summer of Code (GSSOC) 2025**[cite: 50].
+* 💬 Ask me about: **Full-Stack Development, APIs, and responsive design!**
 
 ---
 
-## 💡 My Skills & Technologies
+## 💡 Technical Stack & Expertise
 
-I leverage a variety of languages and tools to bring my projects to life.
+I leverage a variety of languages, frameworks, and tools to bring my projects to life.
 
-### Languages & Front-End
+### Frontend 🌐
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
 </p>
 
-### Tools & Platforms
+### Backend & Database 💾 (MERN Stack)
 <p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+</p>
+
+### Tools & Platforms ⚙️
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </p>
 
@@ -46,37 +54,309 @@ I leverage a variety of languages and tools to bring my projects to life.
 
 ## 📚 Featured Projects
 
-Here are a few repositories I'd like to highlight, including my popular themes and my work from the Intern Crowd internship.
+I am highlighting two of my major projects, one full-stack and one front-end focused.
 
-| Project | Description | Tech Stack | Status |
+| Project | Description | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
-| **[MICALWEBSITE](https://github.com/NIVIBUGS/MICALWEBSITE)** | A core web design project focusing on layout and advanced CSS styling. | `CSS`, `HTML` | Active |
-| **[Landing_page](https://github.com/NIVIBUGS/Landing_page)** | My **first** project during the internship at Intern Crowd. A clean, responsive landing page. | `HTML` | Completed |
-| **[SignUp](https://github.com/NIVIBUGS/SignUp)** | My **second** internship project. Focuses on building a robust and validated signup form interface. | `HTML` | Completed |
-| **[micaltheme3](https://github.com/NIVIBUGS/micaltheme3)** | A focused repository showcasing various theme iterations and design concepts. | `CSS` | Active |
+| **[Travel Booking Website](https://github.com/NIVIBUGS/Travel-Booking-Website-Link-Here)** | [cite_start]A **full-stack platform** for searching destinations, viewing tour packages, and managing bookings[cite: 37]. | [cite_start]`MERN Stack` [cite: 32] | [cite_start]User **Authentication** & **MongoDB** Data Management[cite: 38, 36]. |
+| **[Golf Landing Page](https://github.com/NIVIBUGS/Golf-Landing-Page-Link-Here)** | [cite_start]A **responsive and clean UI** focusing on user experience and feature highlight[cite: 42]. | [cite_start]`HTML5`, `CSS3`, `Bootstrap` [cite: 39] | [cite_start]Implemented **cross-browser compatibility** and a clean layout[cite: 41, 43]. |
 
 ---
 
 ## 📊 My GitHub Stats
 
+**💡 Note:** If these stats cards are blank for you, please ensure your GitHub settings allow for public visibility of your contribution data!
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIVIBUGS&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="NIVIBUGS GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIVIBUGS&layout=compact&theme=radical&hide_border=true" alt="NIVIBUGS Top Languages" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=NIVIBUGS&theme=radical&hide_border=true" alt="NIVIBUGS GitHub Streak" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=NIVIBUGS&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=BB86FC&icon_color=BB86FC" alt="NIVIBUGS GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIVIBUGS&layout=compact&theme=dark&hide_border=true&title_color=BB86FC&icon_color=BB86FC" alt="NIVIBUGS Top Languages" />
+  </div>
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm open to collaborations, discussions, or just sharing development knowledge. Find me on the platforms below!
+I'm always open to collaboration and new opportunities.
 
-| Platform | Link/Username | **&lt;-- **_Replace Placeholder!_** ** |
-| :--- | :--- | :--- |
-| [![GitHub Badge](https://img.shields.io/badge/GitHub-NIVIBUGS-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NIVIBUGS) | `NIVIBUGS` | (Link is correct) |
-| [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](**[YOUR LINKEDIN PROFILE URL]**) | *[Insert Username]* | **<- Replace this URL** |
-| [![Discord Badge](https://img.shields.io/badge/Discord-Username-7289DA?style=for-the-badge&logo=discord&logoColor=white)](**[YOUR DISCORD INVITE/TAG]**) | *[Insert Username#Tag]* | **<- Replace this URL/Tag** |
-| [![Email Badge](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:**[YOUR EMAIL ADDRESS]**) | *[Insert Email]* | **<- Replace this Email** |
+| Platform | Link/Contact |
+| :--- | :--- |
+| [![GitHub Badge](https://img.shields.io/badge/GitHub-NIVIBUGS-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NIVIBUGS) | [cite_start]`github.com/NIVIBUGS` [cite: 2] |
+| [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nivedita_Paliwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nivedita-paliwal) | [cite_start]`linkedin.com/in/nivedita-paliwal` [cite: 2] |
+| [![Email Badge](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niveditapaliwal0001@gmail) | [cite_start]`niveditapaliwal0001@gmail` [cite: 2] |
+| [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-9993650345-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919993650345) | [cite_start]`+91-9993650345` [cite: 2] |
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NIVIBUGS&color=blue" alt="Profile Views" />
+</div><div align="center">
+  <img src="https://custom-badge.vercel.app/api/github/followers/NIVIBUGS?style=for-the-badge&label=Follow%20Me&color=blueviolet" alt="Followers Badge"/>
+  
+  # Hello there! I'm Nivedita Paliwal (NIVIBUGS) 👋
+  
+  <p align="center">
+    <img src="https://media.giphy.com/media/Q8QfO5zM0Ea8Y/giphy.gif" alt="Developer GIF" width="300" />
+    <br>
+    <i>"A MERN Stack Developer building responsive and scalable applications."</i>
+  </p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+[cite_start]I am a dedicated **Master of Computer Applications (MCA)** student [cite: 4, 5] [cite_start]and a **MERN Stack Developer** [cite: 9] focusing on full-stack application development. With **19 public repositories**, my goal is to blend responsive front-end design with efficient back-end architecture.
+
+* [cite_start]🔭 I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)[cite: 20, 32].
+* [cite_start]🌱 I’m dedicated to competitive programming, having solved **120+ coding problems** across platforms like GeeksforGeeks and Leetcode[cite: 52].
+* [cite_start]🤝 I contributed to open source during **GirlScript Summer of Code (GSSOC) 2025**[cite: 50].
+* 💬 Ask me about: **Full-Stack Development, APIs, and responsive design!**
+
+---
+
+## 💡 Technical Stack & Expertise
+
+I leverage a variety of languages, frameworks, and tools to bring my projects to life.
+
+### Frontend 🌐
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+</p>
+
+### Backend & Database 💾 (MERN Stack)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+</p>
+
+### Tools & Platforms ⚙️
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</p>
+
+---
+
+## 📚 Featured Projects
+
+I am highlighting two of my major projects, one full-stack and one front-end focused.
+
+| Project | Description | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **[Travel Booking Website](https://github.com/NIVIBUGS/Travel-Booking-Website-Link-Here)** | [cite_start]A **full-stack platform** for searching destinations, viewing tour packages, and managing bookings[cite: 37]. | [cite_start]`MERN Stack` [cite: 32] | [cite_start]User **Authentication** & **MongoDB** Data Management[cite: 38, 36]. |
+| **[Golf Landing Page](https://github.com/NIVIBUGS/Golf-Landing-Page-Link-Here)** | [cite_start]A **responsive and clean UI** focusing on user experience and feature highlight[cite: 42]. | [cite_start]`HTML5`, `CSS3`, `Bootstrap` [cite: 39] | [cite_start]Implemented **cross-browser compatibility** and a clean layout[cite: 41, 43]. |
+
+---
+
+## 📊 My GitHub Stats
+
+**💡 Note:** If these stats cards are blank for you, please ensure your GitHub settings allow for public visibility of your contribution data!
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NIVIBUGS&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=BB86FC&icon_color=BB86FC" alt="NIVIBUGS GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIVIBUGS&layout=compact&theme=dark&hide_border=true&title_color=BB86FC&icon_color=BB86FC" alt="NIVIBUGS Top Languages" />
+  </div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaboration and new opportunities.
+
+| Platform | Link/Contact |
+| :--- | :--- |
+| [![GitHub Badge](https://img.shields.io/badge/GitHub-NIVIBUGS-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NIVIBUGS) | [cite_start]`github.com/NIVIBUGS` [cite: 2] |
+| [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nivedita_Paliwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nivedita-paliwal) | [cite_start]`linkedin.com/in/nivedita-paliwal` [cite: 2] |
+| [![Email Badge](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niveditapaliwal0001@gmail) | [cite_start]`niveditapaliwal0001@gmail` [cite: 2] |
+| [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-9993650345-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919993650345) | [cite_start]`+91-9993650345` [cite: 2] |
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NIVIBUGS&color=blue" alt="Profile Views" />
+</div><div align="center">
+  <img src="https://custom-badge.vercel.app/api/github/followers/NIVIBUGS?style=for-the-badge&label=Follow%20Me&color=blueviolet" alt="Followers Badge"/>
+  
+  # Hello there! I'm Nivedita Paliwal (NIVIBUGS) 👋
+  
+  <p align="center">
+    <img src="https://media.giphy.com/media/Q8QfO5zM0Ea8Y/giphy.gif" alt="Developer GIF" width="300" />
+    <br>
+    <i>"A MERN Stack Developer building responsive and scalable applications."</i>
+  </p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+[cite_start]I am a dedicated **Master of Computer Applications (MCA)** student [cite: 4, 5] [cite_start]and a **MERN Stack Developer** [cite: 9] focusing on full-stack application development. With **19 public repositories**, my goal is to blend responsive front-end design with efficient back-end architecture.
+
+* [cite_start]🔭 I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)[cite: 20, 32].
+* [cite_start]🌱 I’m dedicated to competitive programming, having solved **120+ coding problems** across platforms like GeeksforGeeks and Leetcode[cite: 52].
+* [cite_start]🤝 I contributed to open source during **GirlScript Summer of Code (GSSOC) 2025**[cite: 50].
+* 💬 Ask me about: **Full-Stack Development, APIs, and responsive design!**
+
+---
+
+## 💡 Technical Stack & Expertise
+
+I leverage a variety of languages, frameworks, and tools to bring my projects to life.
+
+### Frontend 🌐
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+</p>
+
+### Backend & Database 💾 (MERN Stack)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+</p>
+
+### Tools & Platforms ⚙️
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</p>
+
+---
+
+## 📚 Featured Projects
+
+I am highlighting two of my major projects, one full-stack and one front-end focused.
+
+| Project | Description | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **[Travel Booking Website](https://github.com/NIVIBUGS/Travel-Booking-Website-Link-Here)** | [cite_start]A **full-stack platform** for searching destinations, viewing tour packages, and managing bookings[cite: 37]. | [cite_start]`MERN Stack` [cite: 32] | [cite_start]User **Authentication** & **MongoDB** Data Management[cite: 38, 36]. |
+| **[Golf Landing Page](https://github.com/NIVIBUGS/Golf-Landing-Page-Link-Here)** | [cite_start]A **responsive and clean UI** focusing on user experience and feature highlight[cite: 42]. | [cite_start]`HTML5`, `CSS3`, `Bootstrap` [cite: 39] | [cite_start]Implemented **cross-browser compatibility** and a clean layout[cite: 41, 43]. |
+
+---
+
+## 📊 My GitHub Stats
+
+**💡 Note:** If these stats cards are blank for you, please ensure your GitHub settings allow for public visibility of your contribution data!
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NIVIBUGS&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=BB86FC&icon_color=BB86FC" alt="NIVIBUGS GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIVIBUGS&layout=compact&theme=dark&hide_border=true&title_color=BB86FC&icon_color=BB86FC" alt="NIVIBUGS Top Languages" />
+  </div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaboration and new opportunities.
+
+| Platform | Link/Contact |
+| :--- | :--- |
+| [![GitHub Badge](https://img.shields.io/badge/GitHub-NIVIBUGS-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NIVIBUGS) | [cite_start]`github.com/NIVIBUGS` [cite: 2] |
+| [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nivedita_Paliwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nivedita-paliwal) | [cite_start]`linkedin.com/in/nivedita-paliwal` [cite: 2] |
+| [![Email Badge](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niveditapaliwal0001@gmail) | [cite_start]`niveditapaliwal0001@gmail` [cite: 2] |
+| [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-9993650345-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919993650345) | [cite_start]`+91-9993650345` [cite: 2] |
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NIVIBUGS&color=blue" alt="Profile Views" />
+</div><div align="center">
+  <img src="https://custom-badge.vercel.app/api/github/followers/NIVIBUGS?style=for-the-badge&label=Follow%20Me&color=blueviolet" alt="Followers Badge"/>
+  
+  # Hello there! I'm Nivedita Paliwal (NIVIBUGS) 👋
+  
+  <p align="center">
+    <img src="https://media.giphy.com/media/Q8QfO5zM0Ea8Y/giphy.gif" alt="Developer GIF" width="300" />
+    <br>
+    <i>"A MERN Stack Developer building responsive and scalable applications."</i>
+  </p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+[cite_start]I am a dedicated **Master of Computer Applications (MCA)** student [cite: 4, 5] [cite_start]and a **MERN Stack Developer** [cite: 9] focusing on full-stack application development. With **19 public repositories**, my goal is to blend responsive front-end design with efficient back-end architecture.
+
+* [cite_start]🔭 I specialize in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)[cite: 20, 32].
+* [cite_start]🌱 I’m dedicated to competitive programming, having solved **120+ coding problems** across platforms like GeeksforGeeks and Leetcode[cite: 52].
+* [cite_start]🤝 I contributed to open source during **GirlScript Summer of Code (GSSOC) 2025**[cite: 50].
+* 💬 Ask me about: **Full-Stack Development, APIs, and responsive design!**
+
+---
+
+## 💡 Technical Stack & Expertise
+
+I leverage a variety of languages, frameworks, and tools to bring my projects to life.
+
+### Frontend 🌐
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
+</p>
+
+### Backend & Database 💾 (MERN Stack)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+</p>
+
+### Tools & Platforms ⚙️
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</p>
+
+---
+
+## 📚 Featured Projects
+
+I am highlighting two of my major projects, one full-stack and one front-end focused.
+
+| Project | Description | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **[Travel Booking Website](https://github.com/NIVIBUGS/Travel-Booking-Website-Link-Here)** | [cite_start]A **full-stack platform** for searching destinations, viewing tour packages, and managing bookings[cite: 37]. | [cite_start]`MERN Stack` [cite: 32] | [cite_start]User **Authentication** & **MongoDB** Data Management[cite: 38, 36]. |
+| **[Golf Landing Page](https://github.com/NIVIBUGS/Golf-Landing-Page-Link-Here)** | [cite_start]A **responsive and clean UI** focusing on user experience and feature highlight[cite: 42]. | [cite_start]`HTML5`, `CSS3`, `Bootstrap` [cite: 39] | [cite_start]Implemented **cross-browser compatibility** and a clean layout[cite: 41, 43]. |
+
+---
+
+## 📊 My GitHub Stats
+
+**💡 Note:** If these stats cards are blank for you, please ensure your GitHub settings allow for public visibility of your contribution data!
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NIVIBUGS&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=BB86FC&icon_color=BB86FC" alt="NIVIBUGS GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIVIBUGS&layout=compact&theme=dark&hide_border=true&title_color=BB86FC&icon_color=BB86FC" alt="NIVIBUGS Top Languages" />
+  </div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaboration and new opportunities.
+
+| Platform | Link/Contact |
+| :--- | :--- |
+| [![GitHub Badge](https://img.shields.io/badge/GitHub-NIVIBUGS-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NIVIBUGS) | [cite_start]`github.com/NIVIBUGS` [cite: 2] |
+| [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nivedita_Paliwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nivedita-paliwal) | [cite_start]`linkedin.com/in/nivedita-paliwal` [cite: 2] |
+| [![Email Badge](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niveditapaliwal0001@gmail) | [cite_start]`niveditapaliwal0001@gmail` [cite: 2] |
+| [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-9993650345-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919993650345) | [cite_start]`+91-9993650345` [cite: 2] |
 
 ---
 
